@@ -1,0 +1,234 @@
+{
+  "framework": "lightrag",
+  "total_queries": 10,
+  "indexing_time_ms": 120634.296,
+  "total_time_ms": 128487.684,
+  "average_metrics": {
+    "context_recall": 0.0,
+    "context_precision": 0.0,
+    "answer_relevance": 0.0,
+    "faithfulness": 0.0,
+    "context_coverage": 0.0,
+    "retrieval_latency_ms": 309.076,
+    "generation_latency_ms": 0.0,
+    "total_latency_ms": 309.076,
+    "input_tokens": 0,
+    "output_tokens": 0
+  },
+  "per_query": [
+    {
+      "query_idx": 0,
+      "query": "كيف يعمل المساعد الصوتي؟",
+      "mode": "hybrid",
+      "answer": "",
+      "num_contexts": 0,
+      "latency_ms": 292.9716110229492,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.0,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 292.972,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 292.972,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 1,
+      "query": "ما هو نظام RAG؟",
+      "mode": "hybrid",
+      "answer": "",
+      "num_contexts": 0,
+      "latency_ms": 282.49502182006836,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.0,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 282.495,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 282.495,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 2,
+      "query": "كيف تعمل قواعد البيانات المتجهة؟",
+      "mode": "hybrid",
+      "answer": "",
+      "num_contexts": 0,
+      "latency_ms": 354.27165031433105,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.0,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 354.272,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 354.272,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 3,
+      "query": "ما هي معالجة اللغة الطبيعية؟",
+      "mode": "hybrid",
+      "answer": "",
+      "num_contexts": 0,
+      "latency_ms": 313.6255741119385,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.0,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 313.626,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 313.626,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 4,
+      "query": "كيف يتم تحويل الكلام إلى نص؟",
+      "mode": "hybrid",
+      "answer": "",
+      "num_contexts": 0,
+      "latency_ms": 300.37951469421387,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.0,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 300.38,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 300.38,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 5,
+      "query": "ما هي التضمينات في الذكاء الاصطناعي؟",
+      "mode": "hybrid",
+      "answer": "",
+      "num_contexts": 0,
+      "latency_ms": 318.97902488708496,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.0,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 318.979,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 318.979,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 6,
+      "query": "كيف تعمل روبوتات الدردشة؟",
+      "mode": "hybrid",
+      "answer": "",
+      "num_contexts": 0,
+      "latency_ms": 305.52101135253906,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.0,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 305.521,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 305.521,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 7,
+      "query": "ما هو البحث الدلالي؟",
+      "mode": "hybrid",
+      "answer": "",
+      "num_contexts": 0,
+      "latency_ms": 301.51987075805664,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.0,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 301.52,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 301.52,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 8,
+      "query": "كيف تتعامل الأنظمة مع اللغة العربية؟",
+      "mode": "hybrid",
+      "answer": "",
+      "num_contexts": 0,
+      "latency_ms": 297.0154285430908,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.0,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 297.015,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 297.015,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 9,
+      "query": "ما هي فوائد المساعد الصوتي؟",
+      "mode": "hybrid",
+      "answer": "",
+      "num_contexts": 0,
+      "latency_ms": 323.9781856536865,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.0,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 323.978,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 323.978,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    }
+  ],
+  "mode_comparison": {
+    "hybrid": {
+      "context_recall": 0.0,
+      "context_precision": 0.0,
+      "answer_relevance": 0.0,
+      "faithfulness": 0.0,
+      "context_coverage": 0.0,
+      "retrieval_latency_ms": 309.076,
+      "generation_latency_ms": 0.0,
+      "total_latency_ms": 309.076,
+      "input_tokens": 0,
+      "output_tokens": 0
+    }
+  }
+}

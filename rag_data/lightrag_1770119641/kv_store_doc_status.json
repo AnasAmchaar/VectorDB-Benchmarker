@@ -1,0 +1,752 @@
+{
+  "doc-e28e62755b99c30679e3e092c06ebcf6": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "المساعد الصوتي هو برنامج ذكاء اصطناعي يمكنه فهم الأوامر الصوتية والرد عليها.",
+    "content_length": 76,
+    "created_at": "2026-02-03T11:54:05.636339+00:00",
+    "updated_at": "2026-02-03T11:54:14.045754+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125405_5b56c869",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-9929e812e3c8fd44724c3856b40f5d35": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "تستخدم تقنية التعرف على الكلام لتحويل الصوت إلى نص مكتوب.",
+    "content_length": 57,
+    "created_at": "2026-02-03T11:54:05.663102+00:00",
+    "updated_at": "2026-02-03T11:54:14.045754+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125405_0538e8f6",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-8754efa9156b58448c878e15203abac9": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "نظام الاسترجاع المعزز بالتوليد يجمع بين البحث والذكاء الاصطناعي التوليدي.",
+    "content_length": 73,
+    "created_at": "2026-02-03T11:54:05.676128+00:00",
+    "updated_at": "2026-02-03T11:54:14.055696+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125405_6f008569",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-2020220b33d5053ac8f2dda1ce9ca7a9": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "قواعد البيانات المتجهة تخزن التضمينات للبحث الدلالي السريع.",
+    "content_length": 59,
+    "created_at": "2026-02-03T11:54:05.695944+00:00",
+    "updated_at": "2026-02-03T11:54:14.055696+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125405_bfeba778",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-c632b2608dfedf57c8392973a3337319": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "الذكاء الاصطناعي يغير طريقة تفاعلنا مع التكنولوجيا.",
+    "content_length": 51,
+    "created_at": "2026-02-03T11:54:05.721093+00:00",
+    "updated_at": "2026-02-03T11:54:14.067646+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125405_42fa565d",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-78c4fc53037a7198a33e2fec3d28aa74": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "معالجة اللغة الطبيعية تساعد الآلات على فهم اللغة البشرية.",
+    "content_length": 57,
+    "created_at": "2026-02-03T11:54:05.751654+00:00",
+    "updated_at": "2026-02-03T11:54:14.068206+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125405_89d5af5d",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-65837c0b28f8fb3dedf3ab7c537fa402": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "تحويل النص إلى كلام يمكّن الأجهزة من التحدث بأصوات طبيعية.",
+    "content_length": 58,
+    "created_at": "2026-02-03T11:54:05.783571+00:00",
+    "updated_at": "2026-02-03T11:54:14.081060+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125405_d14d3b93",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-8105556f8cbdd80fa967e16429369b35": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "التعلم العميق يحسن دقة أنظمة التعرف على الكلام.",
+    "content_length": 47,
+    "created_at": "2026-02-03T11:54:05.822940+00:00",
+    "updated_at": "2026-02-03T11:54:14.081060+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125405_41ea658a",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-708052cf951e43e06e420a1ee5081e74": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "روبوتات الدردشة تستخدم الذكاء الاصطناعي للتفاعل مع المستخدمين.",
+    "content_length": 62,
+    "created_at": "2026-02-03T11:54:05.878648+00:00",
+    "updated_at": "2026-02-03T11:54:14.092857+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125405_e656dd4c",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-a92bdd4df634c54a2a0dbd7be4a8f036": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "البحث الدلالي يفهم معنى الاستعلام وليس فقط الكلمات المفتاحية.",
+    "content_length": 61,
+    "created_at": "2026-02-03T11:54:05.930443+00:00",
+    "updated_at": "2026-02-03T11:54:14.092857+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125405_25009d91",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-0fd62440f2b1bd1edced61591dfc5523": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "نماذج اللغة الكبيرة تولد نصوصاً تشبه الكتابة البشرية.",
+    "content_length": 53,
+    "created_at": "2026-02-03T11:54:06.010004+00:00",
+    "updated_at": "2026-02-03T11:54:14.108094+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125406_43f50ed7",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-0416617392c411a5ad5fab12b24a2a77": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "واجهات المحادثة تجعل التكنولوجيا أكثر سهولة في الاستخدام.",
+    "content_length": 57,
+    "created_at": "2026-02-03T11:54:06.092755+00:00",
+    "updated_at": "2026-02-03T11:54:14.108094+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125406_8ef12723",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-cade3b4b92f82161973848087fd21df8": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "التضمينات تمثل النص كأرقام في فضاء متعدد الأبعاد.",
+    "content_length": 49,
+    "created_at": "2026-02-03T11:54:06.201462+00:00",
+    "updated_at": "2026-02-03T11:54:14.121542+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125406_c40dc665",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-e02c23210282d64bd32b609a40024983": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "الأسيستنت الذكي يمكنه الإجابة على الأسئلة بلغات متعددة.",
+    "content_length": 55,
+    "created_at": "2026-02-03T11:54:06.276546+00:00",
+    "updated_at": "2026-02-03T11:54:14.121542+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125406_c95800cb",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-91d7bf6c975941e424f727885e9a5f37": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "تقنيات الصوت تتطور بسرعة كبيرة في السنوات الأخيرة.",
+    "content_length": 50,
+    "created_at": "2026-02-03T11:54:06.392718+00:00",
+    "updated_at": "2026-02-03T11:54:14.137796+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125406_1841b583",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-18cb38186b9c65a23c0af89fa99dccb3": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "المساعدون الافتراضيون يساعدون في إنجاز المهام اليومية.",
+    "content_length": 54,
+    "created_at": "2026-02-03T11:54:06.473295+00:00",
+    "updated_at": "2026-02-03T11:54:14.137796+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125406_86baf674",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-442dbb78cbd82d496e48b34a12e6b4f5": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "التعرف التلقائي على الكلام يحول الصوت إلى نص بدقة عالية.",
+    "content_length": 56,
+    "created_at": "2026-02-03T11:54:06.551721+00:00",
+    "updated_at": "2026-02-03T11:54:14.148257+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125406_03e1be6a",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-49039af11e9963f950519cc68b7ae383": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "قواعد المعرفة تخزن المعلومات للرد على استفسارات المستخدمين.",
+    "content_length": 59,
+    "created_at": "2026-02-03T11:54:06.641440+00:00",
+    "updated_at": "2026-02-03T11:54:14.148257+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125406_e9c829bb",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-4d800b98ff103fb21b6861fb8291a5c0": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "الذكاء الاصطناعي المحادثي يحاكي المحادثات البشرية الطبيعية.",
+    "content_length": 59,
+    "created_at": "2026-02-03T11:54:06.753104+00:00",
+    "updated_at": "2026-02-03T11:54:14.158402+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125406_11442c38",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-7ba973b2e5937ceaf94e07e388efb5c0": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "تطبيقات الصوت تنتشر في المنازل الذكية والسيارات.",
+    "content_length": 48,
+    "created_at": "2026-02-03T11:54:06.875242+00:00",
+    "updated_at": "2026-02-03T11:54:14.158402+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125406_23f8f2d9",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-8c9bf9841b9470a0c2c67ec8927a6467": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "البحث في الوثائق يستخدم التضمينات لإيجاد المعلومات ذات الصلة.",
+    "content_length": 61,
+    "created_at": "2026-02-03T11:54:07.026377+00:00",
+    "updated_at": "2026-02-03T11:54:14.168501+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125407_45bf41a7",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-a138073d937bf0c99d64cb5fee47ac18": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "نماذج المحولات غيرت مجال معالجة اللغة الطبيعية بشكل جذري.",
+    "content_length": 57,
+    "created_at": "2026-02-03T11:54:07.170845+00:00",
+    "updated_at": "2026-02-03T11:54:14.168501+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125407_61607892",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-d5f7d1867d0721cd8c347286c586644e": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "التفاعل الصوتي أسرع وأسهل من الكتابة في كثير من الحالات.",
+    "content_length": 56,
+    "created_at": "2026-02-03T11:54:07.295918+00:00",
+    "updated_at": "2026-02-03T11:54:14.173635+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125407_35bb9a69",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-4d47041a1e61e154af3fb7a6b9450309": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "أنظمة الحوار تتذكر سياق المحادثة للرد بشكل أفضل.",
+    "content_length": 48,
+    "created_at": "2026-02-03T11:54:07.419903+00:00",
+    "updated_at": "2026-02-03T11:54:14.173635+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125407_05116667",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-8985371904e70854e009c2d967dcdc9e": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "الترجمة الآلية تستفيد من التقدم في الذكاء الاصطناعي.",
+    "content_length": 52,
+    "created_at": "2026-02-03T11:54:07.553484+00:00",
+    "updated_at": "2026-02-03T11:54:14.187677+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125407_80a09a73",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-02cfb84b81ba711acf883481950d78ff": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "المساعد الصوتي العربي يفهم اللهجات المختلفة.",
+    "content_length": 44,
+    "created_at": "2026-02-03T11:54:07.763268+00:00",
+    "updated_at": "2026-02-03T11:54:14.187677+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125407_efdbe688",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-093c31f1165f6058cb4ec971a4605f14": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "تقنية RAG تحسن دقة الإجابات من خلال استرجاع المعلومات.",
+    "content_length": 54,
+    "created_at": "2026-02-03T11:54:07.898254+00:00",
+    "updated_at": "2026-02-03T11:54:14.199995+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125407_bfbd9197",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-31f035fce0807709e8f80dbe01f8f1c0": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "البحث المتجهي أسرع من البحث التقليدي في قواعد البيانات الكبيرة.",
+    "content_length": 63,
+    "created_at": "2026-02-03T11:54:08.091003+00:00",
+    "updated_at": "2026-02-03T11:54:14.199995+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125408_669adc51",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-fa60492b7cb992a86d602a28a2db0616": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "الذكاء الاصطناعي يدعم اللغة العربية بشكل متزايد.",
+    "content_length": 48,
+    "created_at": "2026-02-03T11:54:08.251291+00:00",
+    "updated_at": "2026-02-03T11:54:14.210970+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125408_21b5b877",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-4012498e1abe38559c4ea8a32375cc11": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "أنظمة الأسئلة والأجوبة تستخرج المعلومات من النصوص.",
+    "content_length": 50,
+    "created_at": "2026-02-03T11:54:08.484718+00:00",
+    "updated_at": "2026-02-03T11:54:14.210970+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125408_bc75f1a0",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-d528161195aaa8a13ff0a47218568cee": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "التعلم الآلي يحسن أداء المساعدين الصوتيين باستمرار.",
+    "content_length": 51,
+    "created_at": "2026-02-03T11:54:08.691933+00:00",
+    "updated_at": "2026-02-03T11:54:14.220833+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125408_cc707d58",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-2807f260a2ccc5c3cfdc374ab8432238": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "واجهات برمجة التطبيقات تسهل دمج الذكاء الاصطناعي في التطبيقات.",
+    "content_length": 62,
+    "created_at": "2026-02-03T11:54:08.898867+00:00",
+    "updated_at": "2026-02-03T11:54:14.220833+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125408_d524803c",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-9237021cfafbd9eea8dbe90e683a6856": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "النماذج متعددة اللغات تدعم العربية والإنجليزية معاً.",
+    "content_length": 52,
+    "created_at": "2026-02-03T11:54:09.260757+00:00",
+    "updated_at": "2026-02-03T11:54:14.231207+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125409_bbb2e738",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-723a4460be46eb825b4cd6c29b3e0f4d": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "تحليل المشاعر يفهم نبرة المستخدم من صوته.",
+    "content_length": 41,
+    "created_at": "2026-02-03T11:54:09.498166+00:00",
+    "updated_at": "2026-02-03T11:54:14.231207+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125409_4dc69214",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-170f7bf00b3fb9634654e448c58207a3": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "الأتمتة الذكية توفر الوقت والجهد في المهام المتكررة.",
+    "content_length": 52,
+    "created_at": "2026-02-03T11:54:09.780644+00:00",
+    "updated_at": "2026-02-03T11:54:14.242503+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125409_c5b4a3f1",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-87173499b4a99bcfe1c6ef9a93c33550": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "تقنيات الكلام تتحسن في فهم اللهجات الإقليمية.",
+    "content_length": 45,
+    "created_at": "2026-02-03T11:54:10.015296+00:00",
+    "updated_at": "2026-02-03T11:54:14.242503+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125410_5fcadb6b",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-ed17ea5e82cd89b8000937e3ecd6678d": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "المساعد الذكي يتعلم من تفاعلات المستخدم السابقة.",
+    "content_length": 48,
+    "created_at": "2026-02-03T11:54:10.262330+00:00",
+    "updated_at": "2026-02-03T11:54:14.250449+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125410_e793e8cf",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-fc6fe7497c234b8bccda0b8d024705a7": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "البيانات الصوتية تحتاج معالجة خاصة قبل التحليل.",
+    "content_length": 47,
+    "created_at": "2026-02-03T11:54:10.477673+00:00",
+    "updated_at": "2026-02-03T11:54:14.250449+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125410_c8d2c247",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-8167ef47753996f369438118d294510d": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "نظم المعلومات الذكية تدعم اتخاذ القرارات.",
+    "content_length": 41,
+    "created_at": "2026-02-03T11:54:10.730296+00:00",
+    "updated_at": "2026-02-03T11:54:14.263537+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125410_3848d68a",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-8339c1841785510940253f3267df9f4b": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "التطبيقات الصوتية تسهل الوصول للمعلومات أثناء القيادة.",
+    "content_length": 54,
+    "created_at": "2026-02-03T11:54:10.985251+00:00",
+    "updated_at": "2026-02-03T11:54:14.263537+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125410_10141dfe",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-c8e4ed8473a06bc88383e3fc77cb6446": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "خوارزميات التعلم العميق تحتاج بيانات كبيرة للتدريب.",
+    "content_length": 51,
+    "created_at": "2026-02-03T11:54:11.250976+00:00",
+    "updated_at": "2026-02-03T11:54:14.270829+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125411_b65d41f9",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-986a9b38bee58f2189bd80506fb14da9": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "الشبكات العصبية تحاكي طريقة عمل الدماغ البشري.",
+    "content_length": 46,
+    "created_at": "2026-02-03T11:54:11.500669+00:00",
+    "updated_at": "2026-02-03T11:54:14.270829+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125411_53a13aaf",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-5c0457cf034c6f1ec5516f9f4bd714e4": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "تقنية المحولات أحدثت ثورة في فهم اللغات.",
+    "content_length": 40,
+    "created_at": "2026-02-03T11:54:11.771191+00:00",
+    "updated_at": "2026-02-03T11:54:14.284416+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125411_f71939e6",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-a075239818364d40792a7ac0433d7906": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "التضمينات السياقية تفهم معنى الكلمة حسب السياق.",
+    "content_length": 47,
+    "created_at": "2026-02-03T11:54:12.091413+00:00",
+    "updated_at": "2026-02-03T11:54:14.284416+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125412_b58dd222",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-06e3afe1f848ac728443b5f1fa9107b5": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "أنظمة التوصية تقترح محتوى مناسب للمستخدم.",
+    "content_length": 41,
+    "created_at": "2026-02-03T11:54:12.386220+00:00",
+    "updated_at": "2026-02-03T11:54:14.295297+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125412_5faeb249",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-540dde9d33f440acadb09557976c222c": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "الذاكرة طويلة المدى تساعد في المحادثات المستمرة.",
+    "content_length": 48,
+    "created_at": "2026-02-03T11:54:12.655694+00:00",
+    "updated_at": "2026-02-03T11:54:14.295297+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125412_2e158077",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-4f88b1dff853a680cf7d4c4e77942ccc": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "تقييم جودة الردود مهم لتحسين أداء النظام.",
+    "content_length": 41,
+    "created_at": "2026-02-03T11:54:12.974131+00:00",
+    "updated_at": "2026-02-03T11:54:14.305770+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125412_ce3829d7",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-a3c0c507edc8db31572f68076f9b482c": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "البحث الهجين يجمع بين البحث الدلالي والكلمات المفتاحية.",
+    "content_length": 55,
+    "created_at": "2026-02-03T11:54:13.267213+00:00",
+    "updated_at": "2026-02-03T11:54:14.306216+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125413_9322c967",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-ec76de62c929d0c393557bdc41fa8713": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "قياس التشابه الدلالي يحدد مدى تقارب المعاني.",
+    "content_length": 44,
+    "created_at": "2026-02-03T11:54:13.742422+00:00",
+    "updated_at": "2026-02-03T11:54:14.319520+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125413_9d6df755",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  },
+  "doc-2a36767ef2b0fb94efe1cff66f21bb05": {
+    "status": "failed",
+    "error_msg": "Gemini API key not provided. Set LLM_BINDING_API_KEY or GEMINI_API_KEY in the environment.",
+    "content_summary": "تجزئة النص تقسم المستندات إلى أجزاء أصغر للمعالجة.",
+    "content_length": 50,
+    "created_at": "2026-02-03T11:54:14.028234+00:00",
+    "updated_at": "2026-02-03T11:54:14.319520+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260203_125414_7b6eb8ad",
+    "metadata": {
+      "processing_start_time": 1770119654,
+      "processing_end_time": 1770119654
+    },
+    "chunks_list": []
+  }
+}

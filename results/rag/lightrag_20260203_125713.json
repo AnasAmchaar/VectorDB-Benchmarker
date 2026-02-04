@@ -1,0 +1,870 @@
+{
+  "framework": "lightrag",
+  "total_queries": 40,
+  "indexing_time_ms": 114867.099,
+  "total_time_ms": 132399.447,
+  "average_metrics": {
+    "context_recall": 0.0,
+    "context_precision": 0.0,
+    "answer_relevance": 0.16,
+    "faithfulness": 0.0,
+    "context_coverage": 0.0,
+    "retrieval_latency_ms": 328.233,
+    "generation_latency_ms": 0.0,
+    "total_latency_ms": 328.233,
+    "input_tokens": 0,
+    "output_tokens": 0
+  },
+  "per_query": [
+    {
+      "query_idx": 0,
+      "query": "كيف يعمل المساعد الصوتي؟",
+      "mode": "hybrid",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 358.46686363220215,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 358.467,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 358.467,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 0,
+      "query": "كيف يعمل المساعد الصوتي؟",
+      "mode": "local",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 311.04207038879395,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 311.042,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 311.042,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 0,
+      "query": "كيف يعمل المساعد الصوتي؟",
+      "mode": "global",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 298.42209815979004,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 298.422,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 298.422,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 0,
+      "query": "كيف يعمل المساعد الصوتي؟",
+      "mode": "naive",
+      "answer": "Sorry, I'm not able to provide an answer to that question.[no-context]",
+      "num_contexts": 0,
+      "latency_ms": 265.977144241333,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.28,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 265.977,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 265.977,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 1,
+      "query": "ما هو نظام RAG؟",
+      "mode": "hybrid",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 309.429407119751,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 309.429,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 309.429,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 1,
+      "query": "ما هو نظام RAG؟",
+      "mode": "local",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 289.55864906311035,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 289.559,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 289.559,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 1,
+      "query": "ما هو نظام RAG؟",
+      "mode": "global",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 301.3737201690674,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 301.374,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 301.374,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 1,
+      "query": "ما هو نظام RAG؟",
+      "mode": "naive",
+      "answer": "Sorry, I'm not able to provide an answer to that question.[no-context]",
+      "num_contexts": 0,
+      "latency_ms": 251.42860412597656,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.28,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 251.429,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 251.429,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 2,
+      "query": "كيف تعمل قواعد البيانات المتجهة؟",
+      "mode": "hybrid",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 298.5842227935791,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 298.584,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 298.584,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 2,
+      "query": "كيف تعمل قواعد البيانات المتجهة؟",
+      "mode": "local",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 303.06267738342285,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 303.063,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 303.063,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 2,
+      "query": "كيف تعمل قواعد البيانات المتجهة؟",
+      "mode": "global",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 326.8158435821533,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 326.816,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 326.816,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 2,
+      "query": "كيف تعمل قواعد البيانات المتجهة؟",
+      "mode": "naive",
+      "answer": "Sorry, I'm not able to provide an answer to that question.[no-context]",
+      "num_contexts": 0,
+      "latency_ms": 258.8231563568115,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.28,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 258.823,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 258.823,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 3,
+      "query": "ما هي معالجة اللغة الطبيعية؟",
+      "mode": "hybrid",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 300.62270164489746,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 300.623,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 300.623,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 3,
+      "query": "ما هي معالجة اللغة الطبيعية؟",
+      "mode": "local",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 287.88018226623535,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 287.88,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 287.88,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 3,
+      "query": "ما هي معالجة اللغة الطبيعية؟",
+      "mode": "global",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 313.7378692626953,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 313.738,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 313.738,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 3,
+      "query": "ما هي معالجة اللغة الطبيعية؟",
+      "mode": "naive",
+      "answer": "Sorry, I'm not able to provide an answer to that question.[no-context]",
+      "num_contexts": 0,
+      "latency_ms": 269.5639133453369,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.28,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 269.564,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 269.564,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 4,
+      "query": "كيف يتم تحويل الكلام إلى نص؟",
+      "mode": "hybrid",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 309.5269203186035,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 309.527,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 309.527,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 4,
+      "query": "كيف يتم تحويل الكلام إلى نص؟",
+      "mode": "local",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 307.84034729003906,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 307.84,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 307.84,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 4,
+      "query": "كيف يتم تحويل الكلام إلى نص؟",
+      "mode": "global",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 315.1440620422363,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 315.144,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 315.144,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 4,
+      "query": "كيف يتم تحويل الكلام إلى نص؟",
+      "mode": "naive",
+      "answer": "Sorry, I'm not able to provide an answer to that question.[no-context]",
+      "num_contexts": 0,
+      "latency_ms": 275.22730827331543,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.28,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 275.227,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 275.227,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 5,
+      "query": "ما هي التضمينات في الذكاء الاصطناعي؟",
+      "mode": "hybrid",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 289.4909381866455,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 289.491,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 289.491,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 5,
+      "query": "ما هي التضمينات في الذكاء الاصطناعي؟",
+      "mode": "local",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 313.98582458496094,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 313.986,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 313.986,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 5,
+      "query": "ما هي التضمينات في الذكاء الاصطناعي؟",
+      "mode": "global",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 304.7146797180176,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 304.715,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 304.715,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 5,
+      "query": "ما هي التضمينات في الذكاء الاصطناعي؟",
+      "mode": "naive",
+      "answer": "Sorry, I'm not able to provide an answer to that question.[no-context]",
+      "num_contexts": 0,
+      "latency_ms": 530.9605598449707,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.28,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 530.961,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 530.961,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 6,
+      "query": "كيف تعمل روبوتات الدردشة؟",
+      "mode": "hybrid",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 429.13222312927246,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 429.132,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 429.132,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 6,
+      "query": "كيف تعمل روبوتات الدردشة؟",
+      "mode": "local",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 360.3377342224121,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 360.338,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 360.338,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 6,
+      "query": "كيف تعمل روبوتات الدردشة؟",
+      "mode": "global",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 300.5828857421875,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 300.583,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 300.583,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 6,
+      "query": "كيف تعمل روبوتات الدردشة؟",
+      "mode": "naive",
+      "answer": "Sorry, I'm not able to provide an answer to that question.[no-context]",
+      "num_contexts": 0,
+      "latency_ms": 458.0566883087158,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.28,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 458.057,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 458.057,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 7,
+      "query": "ما هو البحث الدلالي؟",
+      "mode": "hybrid",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 303.09033393859863,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 303.09,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 303.09,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 7,
+      "query": "ما هو البحث الدلالي؟",
+      "mode": "local",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 311.4495277404785,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 311.45,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 311.45,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 7,
+      "query": "ما هو البحث الدلالي؟",
+      "mode": "global",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 305.7060241699219,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 305.706,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 305.706,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 7,
+      "query": "ما هو البحث الدلالي؟",
+      "mode": "naive",
+      "answer": "Sorry, I'm not able to provide an answer to that question.[no-context]",
+      "num_contexts": 0,
+      "latency_ms": 491.14131927490234,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.28,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 491.141,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 491.141,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 8,
+      "query": "كيف تتعامل الأنظمة مع اللغة العربية؟",
+      "mode": "hybrid",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 306.48112297058105,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 306.481,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 306.481,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 8,
+      "query": "كيف تتعامل الأنظمة مع اللغة العربية؟",
+      "mode": "local",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 298.8114356994629,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 298.811,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 298.811,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 8,
+      "query": "كيف تتعامل الأنظمة مع اللغة العربية؟",
+      "mode": "global",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 298.5374927520752,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 298.537,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 298.537,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 8,
+      "query": "كيف تتعامل الأنظمة مع اللغة العربية؟",
+      "mode": "naive",
+      "answer": "Sorry, I'm not able to provide an answer to that question.[no-context]",
+      "num_contexts": 0,
+      "latency_ms": 484.7760200500488,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.28,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 484.776,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 484.776,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 9,
+      "query": "ما هي فوائد المساعد الصوتي؟",
+      "mode": "hybrid",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 305.67145347595215,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 305.671,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 305.671,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 9,
+      "query": "ما هي فوائد المساعد الصوتي؟",
+      "mode": "local",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 298.2463836669922,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 298.246,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 298.246,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 9,
+      "query": "ما هي فوائد المساعد الصوتي؟",
+      "mode": "global",
+      "answer": "None",
+      "num_contexts": 0,
+      "latency_ms": 309.30304527282715,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.12,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 309.303,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 309.303,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    },
+    {
+      "query_idx": 9,
+      "query": "ما هي فوائد المساعد الصوتي؟",
+      "mode": "naive",
+      "answer": "Sorry, I'm not able to provide an answer to that question.[no-context]",
+      "num_contexts": 0,
+      "latency_ms": 476.3057231903076,
+      "metrics": {
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevance": 0.28,
+        "faithfulness": 0.0,
+        "context_coverage": 0.0,
+        "retrieval_latency_ms": 476.306,
+        "generation_latency_ms": 0.0,
+        "total_latency_ms": 476.306,
+        "input_tokens": 0,
+        "output_tokens": 0
+      }
+    }
+  ],
+  "mode_comparison": {
+    "hybrid": {
+      "context_recall": 0.0,
+      "context_precision": 0.0,
+      "answer_relevance": 0.12,
+      "faithfulness": 0.0,
+      "context_coverage": 0.0,
+      "retrieval_latency_ms": 321.05,
+      "generation_latency_ms": 0.0,
+      "total_latency_ms": 321.05,
+      "input_tokens": 0,
+      "output_tokens": 0
+    },
+    "local": {
+      "context_recall": 0.0,
+      "context_precision": 0.0,
+      "answer_relevance": 0.12,
+      "faithfulness": 0.0,
+      "context_coverage": 0.0,
+      "retrieval_latency_ms": 308.221,
+      "generation_latency_ms": 0.0,
+      "total_latency_ms": 308.221,
+      "input_tokens": 0,
+      "output_tokens": 0
+    },
+    "global": {
+      "context_recall": 0.0,
+      "context_precision": 0.0,
+      "answer_relevance": 0.12,
+      "faithfulness": 0.0,
+      "context_coverage": 0.0,
+      "retrieval_latency_ms": 307.434,
+      "generation_latency_ms": 0.0,
+      "total_latency_ms": 307.434,
+      "input_tokens": 0,
+      "output_tokens": 0
+    },
+    "naive": {
+      "context_recall": 0.0,
+      "context_precision": 0.0,
+      "answer_relevance": 0.28,
+      "faithfulness": 0.0,
+      "context_coverage": 0.0,
+      "retrieval_latency_ms": 376.226,
+      "generation_latency_ms": 0.0,
+      "total_latency_ms": 376.226,
+      "input_tokens": 0,
+      "output_tokens": 0
+    }
+  }
+}
