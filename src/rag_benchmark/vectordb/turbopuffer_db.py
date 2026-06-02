@@ -1,4 +1,4 @@
-"""Turbopuffer connector for Arabic RAG Benchmark."""
+"""Turbopuffer connector for VectorDB Benchmarker."""
 
 import os
 from typing import List, Dict, Any, Optional

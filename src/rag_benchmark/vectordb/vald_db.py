@@ -1,4 +1,4 @@
-"""Vald connector for Arabic RAG Benchmark."""
+"""Vald connector for VectorDB Benchmarker."""
 
 import os
 from typing import List, Dict, Any, Optional

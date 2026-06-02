@@ -1,4 +1,4 @@
-"""Pinecone connector for Arabic RAG Benchmark."""
+"""Pinecone connector for VectorDB Benchmarker."""
 
 import os
 import time

@@ -1,4 +1,4 @@
-"""Vector database connectors for Arabic RAG Benchmark.
+"""Vector database connectors for VectorDB Benchmarker.
 
 Supported databases:
 - ChromaDB: Lightweight, in-process vector store

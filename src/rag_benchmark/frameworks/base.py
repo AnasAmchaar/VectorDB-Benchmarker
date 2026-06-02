@@ -45,7 +45,7 @@ class RAGConfig:
     
     # Storage
     storage_dir: str = "./rag_storage"
-    collection_name: str = "arabic_bench"
+    collection_name: str = "benchmark_run"
     
     # Framework-specific settings
     extra_config: Dict[str, Any] = field(default_factory=dict)

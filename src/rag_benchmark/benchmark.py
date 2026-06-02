@@ -1,4 +1,4 @@
-"""Main benchmark engine for Arabic RAG Benchmark."""
+"""Main benchmark engine for VectorDB Benchmarker."""
 
 import json
 from datetime import datetime
@@ -7,7 +7,7 @@ from typing import List, Dict, Any, Optional
 from dataclasses import dataclass, field
 
 from .config import BenchmarkConfig, VectorDBConfig
-from .data import DataLoader, ArabicCorpus
+from .data import DataLoader, Corpus
 from .metrics import BenchmarkMetrics, RetrievalMetrics
 from .metrics.benchmark_metrics import MetricsCollector
 
@@ -68,7 +68,7 @@ class BenchmarkResult:
             ])
         
         print("\n" + "=" * 80)
-        print("BENCHMARK RESULTS - Arabic RAG Benchmark")
+        print("BENCHMARK RESULTS - VectorDB Benchmarker")
         print("=" * 80)
         print(tabulate(rows, headers=headers, tablefmt="grid"))
         print()
@@ -84,11 +84,11 @@ class Benchmark:
             config: Benchmark configuration. Uses default if not provided.
         """
         self.config = config or BenchmarkConfig.default()
-        self._corpus: Optional[ArabicCorpus] = None
+        self._corpus: Optional[Corpus] = None
         self._embeddings: Optional[List[List[float]]] = None
         self._query_embeddings: Optional[List[List[float]]] = None
     
-    def load_data(self) -> ArabicCorpus:
+    def load_data(self) -> Corpus:
         """Load benchmark data."""
         if self._corpus is None:
             self._corpus = DataLoader.load(
@@ -119,7 +119,8 @@ class Benchmark:
         print(f"  Model: {self.config.embedding.model}")
         print(f"  Documents: {len(corpus.documents)}")
         
-        self._embeddings = embedding_provider.embed_documents(corpus.documents)
+        doc_texts = [doc.get("text", "") for doc in corpus.documents]
+        self._embeddings = embedding_provider.embed_documents(doc_texts)
         self._query_embeddings = embedding_provider.embed_queries(corpus.get_query_texts())
         
         # Update config with actual dimension
@@ -189,7 +190,7 @@ class Benchmark:
     def _benchmark_database(
         self, 
         db_config: VectorDBConfig,
-        corpus: ArabicCorpus
+        corpus: Corpus
     ) -> BenchmarkMetrics:
         """Benchmark a single database."""
         collector = MetricsCollector(db_config.name)
@@ -197,7 +198,7 @@ class Benchmark:
         
         db = get_vectordb(db_config.name, db_config.connection)
         
-        collection_name = f"arabic-vectordb-bench-{datetime.now().strftime('%Y%m%d-%H%M%S')}"
+        collection_name = f"vectordb-bench-{datetime.now().strftime('%Y%m%d-%H%M%S')}"
         
         try:
             db.connect()
@@ -208,12 +209,16 @@ class Benchmark:
             
             doc_ids = [f"doc_{i}" for i in range(len(corpus.documents))]
             
+            doc_texts = [doc.get("text", "") for doc in corpus.documents]
+            doc_metas = [doc.get("metadata", {}) for doc in corpus.documents]
+            
             _, index_latency = collector.measure_latency(
                 db.add_documents,
                 collection_name,
                 doc_ids,
                 self._embeddings,
-                corpus.documents
+                doc_texts,
+                doc_metas
             )
             collector.record_index_latency(index_latency)
             

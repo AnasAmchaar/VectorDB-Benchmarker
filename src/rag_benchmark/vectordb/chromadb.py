@@ -1,4 +1,4 @@
-"""ChromaDB connector for Arabic RAG Benchmark."""
+"""ChromaDB connector for VectorDB Benchmarker."""
 
 from typing import List, Dict, Any, Optional
 from pathlib import Path

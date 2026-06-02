@@ -1,4 +1,4 @@
-"""Milvus connector for Arabic RAG Benchmark."""
+"""Milvus connector for VectorDB Benchmarker."""
 
 import os
 from typing import List, Dict, Any, Optional

@@ -1,7 +1,7 @@
-"""Arabic RAG Benchmark - Extensible benchmarking tool for VectorDBs and RAG systems."""
+"""VectorDB Benchmarker - Extensible benchmarking tool for VectorDBs and RAG systems."""
 
 __version__ = "0.1.0"
-__author__ = "Arabic RAG Bench Team"
+__author__ = "RAG Bench Team"
 
 from .benchmark import Benchmark
 from .config import BenchmarkConfig

@@ -1,4 +1,4 @@
-"""Weaviate connector for Arabic RAG Benchmark."""
+"""Weaviate connector for VectorDB Benchmarker."""
 
 import os
 from typing import List, Dict, Any, Optional

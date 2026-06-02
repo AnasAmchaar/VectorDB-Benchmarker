@@ -1,4 +1,4 @@
-"""FAISS connector for Arabic RAG Benchmark."""
+"""FAISS connector for VectorDB Benchmarker."""
 
 import json
 from typing import List, Dict, Any, Optional

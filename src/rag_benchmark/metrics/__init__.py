@@ -1,4 +1,4 @@
-"""Metrics module for Arabic RAG Benchmark."""
+"""Metrics module for VectorDB Benchmarker."""
 
 from .benchmark_metrics import BenchmarkMetrics
 from .retrieval_metrics import RetrievalMetrics

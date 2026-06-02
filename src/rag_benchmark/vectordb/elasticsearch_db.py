@@ -1,4 +1,4 @@
-"""Elasticsearch connector for Arabic RAG Benchmark."""
+"""Elasticsearch connector for VectorDB Benchmarker."""
 
 import os
 from typing import List, Dict, Any, Optional
@@ -99,7 +99,7 @@ class ElasticsearchConnector(BaseVectorDB):
                 },
                 "document": {
                     "type": "text",
-                    "analyzer": "arabic",  # Arabic analyzer for better tokenization
+                    "analyzer": "standard",  # Standard analyzer for better tokenization
                 },
                 "metadata": {
                     "type": "object",

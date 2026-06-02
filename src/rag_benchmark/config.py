@@ -1,4 +1,4 @@
-"""Configuration management for Arabic RAG Benchmark."""
+"""Configuration management for VectorDB Benchmarker."""
 
 import os
 from dataclasses import dataclass, field
@@ -21,14 +21,14 @@ class VectorDBConfig:
     """Configuration for vector database."""
     name: str = "chromadb"
     connection: Dict[str, Any] = field(default_factory=dict)
-    index_name: str = "arabic-benchmark"
+    index_name: str = "benchmark"
     dimension: int = 768  # Gemini embedding dimension
     
 
 @dataclass
 class DataConfig:
     """Configuration for benchmark data."""
-    source: str = "builtin"  # builtin, file, huggingface
+    source: str = "synthetic"  # builtin, file, huggingface
     file_path: Optional[str] = None
     dataset_name: Optional[str] = None
     num_documents: int = 50
@@ -49,7 +49,7 @@ class MetricsConfig:
 @dataclass
 class BenchmarkConfig:
     """Main benchmark configuration."""
-    name: str = "arabic-vectordb-benchmark"
+    name: str = "vectordb-benchmark"
     embedding: EmbeddingConfig = field(default_factory=EmbeddingConfig)
     vectordbs: List[VectorDBConfig] = field(default_factory=list)
     data: DataConfig = field(default_factory=DataConfig)
@@ -107,6 +107,6 @@ class BenchmarkConfig:
         config.vectordbs = [
             VectorDBConfig(name="chromadb", connection={"persist_directory": "./data/chromadb"}),
             VectorDBConfig(name="faiss", connection={"index_path": "./data/faiss"}),
-            VectorDBConfig(name="pinecone", connection={"index_name": "arabic-benchmark"}),
+            VectorDBConfig(name="pinecone", connection={"index_name": "benchmark"}),
         ]
         return config

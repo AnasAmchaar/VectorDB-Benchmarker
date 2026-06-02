@@ -1,4 +1,4 @@
-"""Redis 8 with vector search connector for Arabic RAG Benchmark."""
+"""Redis 8 with vector search connector for VectorDB Benchmarker."""
 
 import os
 from typing import List, Dict, Any, Optional

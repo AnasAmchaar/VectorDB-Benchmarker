@@ -10,7 +10,7 @@ from .registry import register_embedding
 class SentenceTransformersEmbedding(BaseEmbedding):
     """Sentence Transformers embedding provider (local)."""
     
-    # Arabic-supporting models
+    # Multilingual-supporting models
     MODELS = {
         "paraphrase-multilingual-MiniLM-L12-v2": 384,
         "paraphrase-multilingual-mpnet-base-v2": 768,

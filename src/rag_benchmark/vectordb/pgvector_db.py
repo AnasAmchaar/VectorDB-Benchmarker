@@ -1,4 +1,4 @@
-"""PostgreSQL with pgvector connector for Arabic RAG Benchmark."""
+"""PostgreSQL with pgvector connector for VectorDB Benchmarker."""
 
 import os
 from typing import List, Dict, Any, Optional

@@ -9,7 +9,7 @@ sys.path.insert(0, str(Path(__file__).parent / "src"))
 from dotenv import load_dotenv
 load_dotenv()
 
-from arabic_rag_bench import Benchmark, BenchmarkConfig
+from rag_benchmark import Benchmark, BenchmarkConfig
 
 # All available vector databases
 ALL_VECTORDBS = [
@@ -30,16 +30,16 @@ LOCAL_VECTORDBS = ["chromadb", "faiss"]
 
 def main():
     print("=" * 70)
-    print("Arabic RAG Benchmark (اختبار RAG العربي)")
+    print("VectorDB Benchmarker (VectorDB Benchmark)")
     print("=" * 70)
     
     config = BenchmarkConfig.default()
-    config.embedding.provider = "gemini"
-    config.embedding.model = "text-embedding-004"
+    config.embedding.provider = "sentence-transformers"
+    config.embedding.model = "paraphrase-multilingual-MiniLM-L12-v2"
     
     benchmark = Benchmark(config)
     
-    result = benchmark.run(databases=["chromadb", "faiss", "pinecone"])
+    result = benchmark.run(databases=["chromadb", "faiss"])
     
     result.print_summary()
     
