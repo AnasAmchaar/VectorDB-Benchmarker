@@ -1,6 +1,6 @@
-# Arabic RAG Benchmark (اختبار RAG العربي)
+# VectorDB Benchmarker
 
-An extensible benchmarking tool for evaluating Vector Databases and RAG systems with Arabic text.
+An extensible benchmarking tool for evaluating Vector Databases and RAG systems.
 
 ## Features
 
