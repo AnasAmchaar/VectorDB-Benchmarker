@@ -14,8 +14,6 @@ An extensible benchmarking tool for evaluating Vector Databases and RAG systems 
 ## Installation
 
 ```bash
-# Clone the repository
-cd VoiceASR-model
 
 # Create virtual environment
 python -m venv .venv
